@@ -19,7 +19,7 @@ Pod::Spec.new do |spec|
 
   spec.static_framework = true
 
-  spec.frameworks = , 'Foundation'
+  spec.frameworks =  'Foundation'
 
   spec.source = { :git => "https://github.com/944121333/poddmeoone.git", :tag => "#{spec.version}" }
 
