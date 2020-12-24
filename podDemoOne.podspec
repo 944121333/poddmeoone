@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "poddmeoone"
+  spec.name         = "podDemoOne"
   spec.version      = "0.0.1"
   spec.summary      = "A Lib For foundation."
   spec.description  = <<-DESC
