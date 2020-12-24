@@ -23,6 +23,6 @@ Pod::Spec.new do |spec|
 
   spec.source = { :git => "https://github.com/944121333/poddmeoone.git", :tag => "#{spec.version}" }
 
-  spec.vendored_frameworks = 'frameWrokthree.framework'
+  spec.vendored_frameworks = 'podOneFrameWork.framework'
 
 end
