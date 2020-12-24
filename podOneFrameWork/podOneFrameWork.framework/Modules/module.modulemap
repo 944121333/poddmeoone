@@ -1,0 +1,6 @@
+framework module podOneFrameWork {
+  umbrella header "podOneFrameWork.h"
+
+  export *
+  module * { export * }
+}
